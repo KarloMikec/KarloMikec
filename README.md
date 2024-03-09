@@ -4,7 +4,12 @@
    <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Karlo+Mikec!;" />
 </h1>
-
+<div align="center">
+   <p style="font-family: serif; font-size: 16px; line-height: 1.5;">
+A very ambitious and creative person who has a desire for constant learning. My interest remained in the field of web development. I have experience working in teams and on team projects. Most projects are built from the ground up, from planning and designing the way to satisfying functionality where products can fulfill their purpose independently. Coding projects were created as a result of teamwork and research as part of faculty duties, while some were gradually created as a result of independent learning of new technology and my curiosity while learning.
+   </p>
+</div>
+<br>
    <div align="center"> 
      <a href="karlo.mikec18@gmail.com">
        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
