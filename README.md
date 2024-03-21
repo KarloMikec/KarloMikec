@@ -38,3 +38,9 @@ A very ambitious and creative person who has a desire for constant learning. My 
    <img align="center" alt="Linux" width="30px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="C#" width="30px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 </div>
+
+# 📊 GitHub Stats:
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KarloMikec&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+
+
+
