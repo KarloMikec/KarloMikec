@@ -11,7 +11,7 @@ A very ambitious and creative person who has a desire for constant learning. My 
 </div>
 <br>
    <div align="center"> 
-     <a href="karlo.mikec18@gmail.com">
+     <a href="karlo.mikec18@gmail.com" target="_blank">
        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
      </a>
      <a href="https://www.linkedin.com/in/karlomikec/" target="_blank">
@@ -27,20 +27,21 @@ A very ambitious and creative person who has a desire for constant learning. My 
 
 <br/>
 <div align="center">
-   <img align="center" alt="HTML5" width="30px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-   <img align="center" alt="CSS3" width="30px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-   <img align="center" alt="JavaScript" width="30px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-   <img align="center" alt="AngularJs" width="30px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-   <img align="center" alt="Typescript" width="30px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-   <img align="center" alt="NodeJs" width="30px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-   <img align="center" alt="Swift" width="30px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
-   <img align="center" alt="C++" width="30px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"" />
-   <img align="center" alt="Linux" width="30px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="C#" width="30px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+   <img align="center" alt="HTML5" width="50px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+   <img align="center" alt="CSS3" width="50px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+   <img align="center" alt="JavaScript" width="50px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+   <img align="center" alt="AngularJs" width="50px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+   <img align="center" alt="Typescript" width="50px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+   <img align="center" alt="NodeJs" width="50px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+   <img align="center" alt="Swift" width="50px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
+   <img align="center" alt="C++" width="50px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"" />
+   <img align="center" alt="Linux" width="50px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="C#" width="50px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 </div>
 
 # 📊 GitHub Stats:
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KarloMikec&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+ <img align="right" alt="Coding" width="320" height="170"  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
 
