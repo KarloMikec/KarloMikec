@@ -42,8 +42,8 @@ A very ambitious and creative person who has a desire for constant learning. My 
 # 📊 GitHub Stats:
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KarloMikec&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
  <img align="right" alt="Coding" width="320" height="170"  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<br>
-
-<img align="center" alt="snake" src="https://raw.githubusercontent.com/KarloMikec/KarloMikec/output/snake.svg/" />
-
+ <br>
+ <br>
+ ###
+ <img align="center" src="https://raw.githubusercontent.com/KarloMikec/KarloMikec/output/snake.svg" alt="Snake animation" />
 
